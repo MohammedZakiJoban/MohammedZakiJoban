@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... linear regression application to predict students final exam marks based on past grades. 
-- 🌱 I’m currently learning ... Tensorflow and Keras
-- 👯 I’m looking to collaborate on ... Java or Python
-- 🤔 I’m looking for help with ... Machine Learning
+- 🔭 I’m currently working on ... Chat web Application 
+- 🌱 I’m currently learning ... Spring boot and Angular
+- 👯 I’m looking to collaborate on ... Java or Javascript
+- 🤔 I’m looking for help with ... Web Application Security 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mohamedjoban@gmail.com
 
